@@ -1,0 +1,133 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+height: 300;
+background-color: 474747;
+}
+.gggtgt{
+  color: rgb(255, 255, 255);
+  font-family: Anton;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 10%;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-top: 15px;
+  flex: 1 1 auto;
+  margin: 0 5px;
+}
+
+.qqqqq{
+  display: flex;
+  padding: 0 5px;
+  display: flex;
+  align-items: center;
+  max-width: 243px ;
+  justify-content: space-between;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-family: Anton;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 10%;
+  text-transform: uppercase;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+.conteiner{
+  max-width: 1220px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+.glow-on-hover {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+  flex: 1 1 auto;
+  margin: 0 10px;
+}
+
+.glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+.glow-on-hover:active {
+    color: #000
+}
+
+.glow-on-hover:active:after {
+    background: transparent;
+}
+
+.glow-on-hover:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+
+
+ body{
+ background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+      
+        url(https://hotwalls.ru/wallpapers/temnyy_fon_v_melkuyu_tochku/download/1920x1080.jpg);
+    }
+.evfgfgv{
+  display: flex;
+  padding: 0 5px;
+  padding-top: 100px;
+}
+
+
+

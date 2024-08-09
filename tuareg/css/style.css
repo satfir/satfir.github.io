@@ -1,0 +1,650 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.dfddf {
+    border-radius: 40px;
+    height: 800px;
+
+}
+
+.conteiner {
+    max-width: 380px;
+    width: 100% ;
+    margin: 0 auto;
+}
+
+.ddsqw {
+    color: rgb(25, 28, 34);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: right;
+}
+
+.eretgetg {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.gggtgt {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    text-decoration: none;
+}
+
+.gggtgt:hover {
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid red;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.farf {
+    color: rgb(25, 28, 34);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.evcasdfv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.dede {
+    color: rgb(3, 3, 3);
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-top: 40px;
+
+
+
+}
+
+.section1 {
+    padding-top: 300px;
+ 
+}
+
+.section2 {
+ 
+}
+
+.dedef {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.dedefd {
+    color: rgb(3, 3, 3);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.section3 {
+    padding-top: 50px;
+    
+}
+
+.button {
+    border-radius: 4px;
+    background: rgb(0, 117, 227);
+    width: 219px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.section4 {
+    text-align: center;
+    padding-top: 70px;
+    max-width: 350px;
+}
+
+
+.svasdv {
+    background: url(../img/hggg.jpg) center center / cover no-repeat;
+    border-radius: 24px;
+    height: 200px;
+    
+}
+
+.fdfd {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.asrva {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.ddeD {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400 line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+.ffdss {
+    position: absolute;
+    width: 150px;
+    height: 250px;
+    top: 719px;
+    bottom: 79555px;
+    padding-top: 20px;
+    text-align: center;
+
+
+
+}
+
+.eardfv {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+
+}
+
+.aerdffvd {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0%;
+    padding-bottom: 30px;
+
+
+}
+
+.aerdffvdw {
+    color: rgb(99, 99, 99);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+
+}
+
+.ffefed {
+    border-radius: 4px;
+    background: rgb(0, 117, 227);
+    padding-top: 5px;
+    margin-top: 20px;
+    width: 219px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
+.efrvadfv {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    width: 100%;
+}
+
+.asdasda {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.frfr {
+    border-radius: 0px 0px 16px 16px;
+    background: rgb(9, 65, 78);
+}
+
+.dfddlkl {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.loloi {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.dfdfdll {
+    border-radius: 4px;
+    background: rgb(255, 255, 255);
+
+}
+
+.sddad {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+.fdsfdfd {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.kjkujaa {
+    color: rgb(99, 99, 99);
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.fgefgtl {
+    padding-top: 100px;
+}
+
+.fdfdki {
+    padding-top: 50px;
+}
+
+.fgefgtl {
+
+    
+}
+
+.ppiiyrfec {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.56px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: uppercase;
+     padding-top: 50px;
+}
+
+.ppiiyc {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 57.6px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.dfdfds {
+    height: 300px;
+    width: 300px;
+    padding-top: ;
+    padding-bottom: ;
+}
+
+.ppiiycssd {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ppiiycssddf {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+   
+}
+
+.sdsdsd {
+    height: 400px;
+    ;
+
+}
+
+.dfddf1 {
+    border-radius: 40px;
+    height: 600px;
+    padding-top: 40px;
+}
+
+.dfddsooi {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.wert {
+    width: 300pt;
+}
+
+.dfddsooia {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.section1 {
+    background: url(../img/WE.webp) center center / cover no-repeat;
+    height: 650px;
+
+}
+
+.ppotyr {
+    height: 280pxpx;
+    width: 400px;
+}
+
+.button40 {
+    border-radius: 4px;
+
+    background: rgb(0, 117, 227);
+    width: 219px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+.qer {
+    color: rgb(0, 135, 101);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.qere {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.qaq{
+    width: 219px;
+    height: 110px;
+    margin: 0 auto;
+    display: block;
+}
+
+.dfdfdll {
+    width: 219px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.section8 {
+    padding-top: 50px;
+
+}
+
+.ggbn {
+    color: rgb(25, 28, 34);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 60px;
+}
+
+.ggbf {
+    color: rgb(99, 99, 99);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.vel {
+    border-radius: 24px;
+    height: 500px;
+    background: rgb(0, 117, 227);
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+
+.hth {
+    height: 20px;
+    width: 40px;
+}
+
+.sdsdsd {
+    height: 250px;
+    width: 370px;
+}
+
+.qqqqq {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.dreu {
+    border-radius: 4px;
+
+    background: rgb(255, 255, 255);
+    width: 219px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 35px;
+}
+
+.footer {
+    background: rgb(25, 28, 34);
+}
+
+.lopk {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.lopksas {
+    color: rgb(209, 209, 209);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.lopksasdsdd {
+    color: rgb(209, 209, 209);
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.lolo {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+
+
+
+.qqwq {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.mkqd {
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.uyt {
+    height: 450px;
+    width: 400px;
+}
+
+.jjh {
+    height: 450px;
+    width: 400px;
+}
+.qwerty{
+    border-radius: 4px;
+    background: rgb(0, 117, 227);
+    width: 219px;
+    height: 64px;
+    margin: 0 auto;
+    display: block;
+
+
+}
+.asc{
+ max-width: 400px;
+}
+.ity{
+    height: 250px;
+    width: 350px;
+
+}
+
+
+
+
+
